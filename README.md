@@ -10,7 +10,7 @@ Make sure you have Node.js installed. Clone the git repository and then change y
 
 Now install the libraries needed to run the app.
 
-`npx expo install react-dom react-native-web @expo/webpack-config`
+`npm install`
 
 ## Running
 
